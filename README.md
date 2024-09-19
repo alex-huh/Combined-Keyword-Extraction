@@ -80,7 +80,3 @@ nltk.download('stopwords')
 
 This project is open-source under the MIT License.
 
---- 
-
-**a.** Would you like to add more details about your hybrid extraction approach?  
-**b.** Should we create unit tests for the preprocessing and extraction steps?
